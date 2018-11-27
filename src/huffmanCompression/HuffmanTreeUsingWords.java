@@ -25,9 +25,7 @@ import java.util.Scanner;
 
 /**
  * @author Original Huffman code by Erin Parker, April 2007 Adapted by H. James
- *         de St. Germain to words as symbols 2008 Heavily Updated by H. James
- *         de St. Germain 2017
- *         Additional methods implemented by Brent Collins and Landon Crowther
+ *         Heavily Updated by Brent Collins and Landon Crowther
  * 
  *         Implements file compression and decompression using Huffman's
  *         algorithm.

@@ -9,7 +9,7 @@ import java.util.NoSuchElementException;
  * 
  * Note -- most of these methods were created in lab
  * 
- * @author H. James de St. Germain and Brent Collins and Landon Crowther
+ * @author Brent Collins and Landon Crowther
  *
  */
 public final class Bit_Operations {

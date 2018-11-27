@@ -6,7 +6,7 @@ import java.nio.file.Paths;
 /**
  * Main Class for testing proper compression functionality
  * 
- * @author H. James de St. Germain and Brent Collins and Landon Crowther
+ * @author Brent Collins
  *
  */
 

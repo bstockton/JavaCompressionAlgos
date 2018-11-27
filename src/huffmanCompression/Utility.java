@@ -6,7 +6,7 @@ package huffmanCompression;
 import java.util.Hashtable;
 
 /**
- *  @author H. James de St. Germain and Brent Collins
+ *  @author Brent Collins
  * 
  * Helper methods 
  *

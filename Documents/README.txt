@@ -34,7 +34,7 @@ Compute most common word implementation:
 	The Author felt a hash table was the best data structure
 	to use for this method because of its speed. We then dumped
 	the objects into an array for sorting, empirically this was
-	the fastest way to implemnt that method.
+	the fastest way to implement that method.
 
 
 
